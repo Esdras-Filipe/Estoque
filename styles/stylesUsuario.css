@@ -1,0 +1,42 @@
+.caixa {
+    width: 500px;
+    height: 500px;
+    margin-top: 80px;
+    margin-left: 38%;
+    display: block;
+}
+
+.conteudo {
+    margin-top: 60px;
+}
+
+.label1 {
+    margin-top: 4px;
+    margin-left: 4px;
+}
+
+.label {
+    margin-left: 5px;
+}
+
+.imgUsuario {
+    width: 100px;
+    height: 100px;
+    margin-left: 28%;
+    margin-top: 20px;
+}
+
+.button {
+    color: #000;
+    border: none;
+    margin-left: 5px;
+}
+
+.button:hover {
+    border: none;
+    color: blue;
+}
+
+h1 {
+    margin-left: 45%;
+}

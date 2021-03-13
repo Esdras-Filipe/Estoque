@@ -1,0 +1,14 @@
+.caixa {
+    width: 810px;
+    height: 600px;
+    margin-top: 3%;
+    margin-left: 25%;
+}
+
+h1 {
+    margin-left: 25%;
+}
+
+body {
+    background-color: rgba(255, 0, 0, 0.5);
+}
