@@ -11,3 +11,6 @@ Instruções:
 - Mova os documentos para o servidor
 - Abra o arquivo "BDProjeto.sql" e execute o sql
 - Ao entrar na página Index o ADMIN e SENHA serão por padrão "admin" e "admin", está definido na última linha do SQL "BDProjeto.sql"
+
+
+- Esse é um teste de Commit Remoto
